@@ -1,3 +1,6 @@
+
+let score = 33
+console.log(typeof score);
 let score = null
 //console.log(typeof score);
 let valueInNumber = Boolean(score)
